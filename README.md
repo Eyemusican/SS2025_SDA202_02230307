@@ -9,7 +9,7 @@ The university needs to automate grading for programming assignments in its expa
 
 ### Image 1: Interaction Overview Diagram
 
-![Alt text](practical_images\image3.png)
+![Alt text](https://lroxcguvtewjzclxcrbp.supabase.co/storage/v1/object/public/images//image3.png)
 
 
 
@@ -27,7 +27,7 @@ This diagram successfully captures the core interactions between system componen
 
 ### Image 2: Activity Diagram 
 
-![Activity Diagram](practical_images\image1.png)
+![Activity Diagram](https://lroxcguvtewjzclxcrbp.supabase.co/storage/v1/object/public/images//image1.png)
 
 #### Reflection
 
@@ -45,7 +45,7 @@ This diagram shows the students are handing in the assignments directly to their
 
 ### Image 3: Use Case Overview
 
-![Use Case Overview](practical_images\image2.png)
+![Use Case Overview](https://lroxcguvtewjzclxcrbp.supabase.co/storage/v1/object/public/images//image2.png)
 
 #### Reflection
 This diagram gives a clear view of the system by showing:
