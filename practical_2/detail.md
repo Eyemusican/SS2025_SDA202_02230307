@@ -13,7 +13,7 @@ Use Case
 - Problem: The server can’t handle all the location requests quickly, causing slow results.  
 
 - Solution: The app uses the phone’s GPS to find the user’s location and sends it directly to hotel/car rental services.  
-
+ 
 - Outcome: Results appear in under 1 second, avoiding delays from the overloaded server.  
 
 Tradeoff & Mitigation  
